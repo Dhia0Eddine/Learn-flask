@@ -69,8 +69,8 @@ You can use Postman to send requests to `http://localhost:5000`.
 
 ## 🧪 Example POST Request (Postman)
 
-![POST Request Screenshot](./Post_Request.png)
-![POST Response Screenshot](./GET_Request.png)
+![POST Request Screenshot](Flask_app/Post_Request.png)
+![POST Response Screenshot](Flask_app/GET_Request.png)
 
 
 ## 🧱 Alembic Migrations (Optional)
