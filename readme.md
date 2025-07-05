@@ -4,7 +4,7 @@ This is a simple RESTful API built using Flask and PostgreSQL with SQLAlchemy OR
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Flask_app/
