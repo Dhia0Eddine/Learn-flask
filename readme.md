@@ -18,7 +18,7 @@ Flask_app/
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install required packages in your virtual environment:
 
